@@ -66,23 +66,23 @@ if title == None:
     print("title could not be found")
 else:
     print(title)
-    with open('C:/work/data.txt','a') as f:
-        f.write(title)
+    '''with open('C:/work/data.txt','a') as f:
+        f.write(title)'''
 if author == None:
     print("author could not be found")
 else:
     print(author)
-    with open('C:/work/data.txt','a') as f:
-        f.write(author)
+    '''with open('C:/work/data.txt','a') as f:
+        f.write(author)'''
 if date == None:
     print("date could not be found")
 else:
     print(date)
-    with open('C:/work/data.txt','a') as f:
-        f.write(date)
+    '''with open('C:/work/data.txt','a') as f:
+        f.write(date)'''
 if summary == None:
     print("summary could not be found")
 else:
     print(summary)
-    with open('C:/work/data.txt','a') as f:
-        f.write(summary)
+    '''with open('C:/work/data.txt','a') as f:
+        f.write(summary)'''
